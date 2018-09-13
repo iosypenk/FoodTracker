@@ -6,5 +6,5 @@ My first steps in Swift
   <img src="https://github.com/iosypenk/FoodTracker/blob/master/screenshots/1.png" width="24%" />
   <img src="https://github.com/iosypenk/FoodTracker/blob/master/screenshots/2.png" width="24%" />
   <img src="https://github.com/iosypenk/FoodTracker/blob/master/screenshots/3.png" width="24%" />
-  <img src="https://github.com/iosypenk/FoodTracker/blob/master/screenshots/4.png" width="24,5%" />
+  <img src="https://github.com/iosypenk/FoodTracker/blob/master/screenshots/4.png" width="24%" />
 </div>
